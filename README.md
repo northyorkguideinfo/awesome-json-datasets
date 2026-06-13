@@ -59,6 +59,9 @@ A curated list of awesome JSON datasets that don't require authentication.
 ## Food
 * [FDA product recalls](https://api.fda.gov/food/enforcement.json)
 * [Open Food Facts](https://world.openfoodfacts.org/api/v0/product/5060292302201.json)
+* [ProteinBenchmark](https://proteinbenchmark.com/api/v1/products) — protein density, tiers, DIAAS & cost-efficiency for 190+ foods, snacks & supplements
+  * [Scoring coefficients](https://proteinbenchmark.com/api/v1/coefficients)
+  * [Methodology](https://proteinbenchmark.com/api/v1/methodology)
 
 ## Gaming
 * [Pokémon](https://pokeapi.co/docsv2/)
